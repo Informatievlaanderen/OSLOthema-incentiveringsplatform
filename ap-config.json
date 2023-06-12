@@ -1,0 +1,23 @@
+{
+    "naam": "Applicatieprofiel Incentiveringsplatform",
+    "rapport" : "",
+    "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+    "publicatiedatum": "",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
+    "categorie": "Applicatieprofiel",
+    "beschrijving" : "ap-Incentiveringsplatform.md",
+    "specificatiedocument": [{
+      "naam": "Incentiveringsplatform Applicatieprofiel",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/Incentiveringsplatform"
+    }],
+    "documentatie": [],
+    "charter": [],
+    "verslagen": [],
+    "presentaties": [],
+    "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Incentiveringsplatform",
+    "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overhei",
+    "datum_van_aanmelding": "16/03/2023",
+    "erkenning_werkgroep_datastandaarden": "",
+    "erkenning_stuurgroep": ""
+  }
