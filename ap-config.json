@@ -13,8 +13,28 @@
     }],
     "documentatie": [],
     "charter": [],
-    "verslagen": [],
-    "presentaties": [],
+    "verslagen": [
+    {
+      "naam": "Verslag Business werkgroep - OSLO Incentiveringsplatform 2 mei 2023",
+      "waarde": "Verslag Business Werkgroep - OSLO Incentiveringsplatform 2.pdf"
+    }
+    ,
+    {
+      "naam": "Verslag thematische werkgroep 1 - OSLO Incentiveringsplatform 30 mei 2023",
+      "waarde": "Verslag Thematische Werkgroep - OSLO Incentiveringsplatform (1) (1).pdf"
+    }  
+     ],
+    "presentaties": [
+    {
+      "naam": "Presentatie Business werkgroep -OSLO Incentiveringsplatform 2 mei 2023",
+      "waarde": "Business workshop (1).pdf"
+    }
+    ,
+    {
+      "naam": "Presentatie thematische werkgroep 1 - OSLO Incentiveringsplatform 30 mei 2023",
+      "waarde": "Presentatie thematische werkgroep 1 - Incentiveringplatform (1).pdf"
+    }  
+    ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Incentiveringsplatform",
     "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overhei",
     "datum_van_aanmelding": "16/03/2023",
