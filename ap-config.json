@@ -12,7 +12,10 @@
       "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/incentiveringsplatform"
     }],
     "documentatie": [],
-    "charter": [],
+    "charter": [    {
+      "naam": "OSLO Incentiveringsplatform Charter",
+      "waarde": "Charter Incentiveringsplatform Lokale Economie.docx"
+    }],
     "verslagen": [
     {
       "naam": "Verslag Business werkgroep - OSLO Incentiveringsplatform 2 mei 2023",
