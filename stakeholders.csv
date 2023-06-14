@@ -1,4 +1,23 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A
+Pieter;Roeyen;;pieter.roeyen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
+Pieter;Desmijter;;pieter.desmijter@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
+EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E
+MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C
+Roel;van Sabben ;Fairville;;https://www.fairville.be/;C
+Brigitte ;Devos ;Fairville;;https://www.fairville.be/;C
+Jan;De Wilde ;Fairville;;https://www.fairville.be/;C
+Tom;;Fairville;;https://www.fairville.be/;C
+Stijn;Claes ;IOK;;https://www.iok.be/;C
+Koen ;Van den Eynde;IOK;;https://www.iok.be/;C
+Wesley ;Dooms ;LETS Vlaanderen ;;https://www.letsvlaanderen.be/;C
+Bart;Wolput ;Give a Day;;https://www.giveaday.be/nl-be;C
+Bram;Coppens ;Koalect;;https://koalect.com/nl/;C
+Geert;Peters ;CCV Lab;;https://www.ccv.eu/lab/;C
+Lien;Schoofs ;Stad Geel;;https://www.geel.be/;C
+Annelies;Van Ostaeyen;Stad Geel;;https://www.geel.be/;C
+Stef;Kuypers ;Happonomy;;https://www.happonomy.org/nl/;C
+Maarten;Decramer ;Beaver & Eagle;;https://beaverandeagle.com/;C
+Sander;Van Parijs;Muntuit;;https://muntuit.be/;C
+Koen ;De Beer;Syichting Stro;;https://www.socialtrade.nl/;C
+Wouter;Van Dyck;LETS Vlaanderen ;;https://www.letsvlaanderen.be/;C
