@@ -1,2 +1,1 @@
-Provide a description for this standardization trajectory. 
-This text will be shown on the OSLO standards registry.
+Dit projectvoorstel omvat de incentivering van (maatschappelijk) gewenst gedrag via een digitale munt. Vervolgens ook het verhogen van participatie door onder andere burgers, werknemers, studenten te laten deelnemen aan waardevolle acties. Hiernaast wordt de lokale economie gestimuleerd door meer bestedingen in eigen regio te promoten. Ten slotte is er ook nog de ontwikkeling van een mechanisme om de digitale munten zo veel mogelijk binnen de gemeenschap te laten circuleren.
