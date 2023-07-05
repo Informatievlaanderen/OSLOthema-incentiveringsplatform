@@ -25,7 +25,11 @@
     {
       "naam": "Verslag thematische werkgroep 1 - OSLO Incentiveringsplatform 9 mei 2023",
       "waarde": "Verslag Thematische Werkgroep - OSLO Incentiveringsplatform (1) (1).pdf"
-    }  
+    }      ,
+    {
+      "naam": "Verslag thematische werkgroep 2 - OSLO Incentiveringsplatform 13 juni 2023",
+      "waarde": "Verslag Thematische Werkgroep 2 - OSLO Incentiveringsplatform.pdf"
+    } 
      ],
     "presentaties": [
     {
@@ -41,7 +45,12 @@
     {
       "naam": "Presentatie thematische werkgroep 2 - OSLO Incentiveringsplatform 13 juni 2023",
       "waarde": "Presentatie tweede thematische werkgroep - Incentiveringsplatform 13 juni 2023.pdf"
+    }       ,
+    {
+      "naam": "Presentatie thematische werkgroep 3 - OSLO Incentiveringsplatform 4 juli 2023",
+      "waarde": "Presentatie derde thematische werkgroep - Incentiveringsplatform 4 juli 2023.pdf"
     }
+
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Incentiveringsplatform",
     "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
