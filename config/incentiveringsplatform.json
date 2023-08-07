@@ -5,7 +5,7 @@
   "eap": "Incentiveringsplatform.eap",
   "diagram": "Incentiveringsplatform",
   "template": "mijn-applicatieprofiel-ap.j2",
-  "title": "OSLO Incentiveringsplatform(applicatieprofiel)",
+  "title": "OSLO Incentiveringsplatform (applicatieprofiel)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2023-06-06",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
