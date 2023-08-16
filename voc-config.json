@@ -1,12 +1,12 @@
 {
-  "naam": "Applicatieprofiel Incentiveringsplatform",
+  "naam": "Vocabularium Incentiveringsplatform",
   "rapport": "",
   "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
   "publicatiedatum": "",
   "type_toepassing": "Aanbevolen (vrijwillig)",
-  "categorie": "Applicatieprofiel",
-  "beschrijving": "ap-Incentiveringsplatform.md",
+  "categorie": "Vocabularium",
+  "beschrijving": "voc-Incentiveringsplatform.md",
   "specificatiedocument": [
     {
       "naam": "Incentiveringsplatform Applicatieprofiel",
