@@ -3,7 +3,7 @@
   "rapport": "",
   "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-  "publicatiedatum": "",
+  "publicatiedatum": "2023-03-16",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
   "beschrijving": "ap-Incentiveringsplatform.md",
@@ -59,6 +59,6 @@
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over incentiveringen (stimulansaanbiedingen)",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
   "datum_van_aanmelding": "16/03/2023",
-  "erkenning_werkgroep_datastandaarden": "",
+  "erkenning_werkgroep_datastandaarden": "21/03/2024",
   "erkenning_stuurgroep": ""
 }
