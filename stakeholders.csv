@@ -1,7 +1,7 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
-Pieter;Roeyen;;pieter.roeyen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
-Pieter;Desmijter;;pieter.desmijter@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
-Vincent;Feremans;;vincent.feremans@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
+Pieter;Roeyen;;pieter.roeyen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Pieter;Desmijter;;pieter.desmijter@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Vincent;Feremans;;vincent.feremans@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Ziggy;Vanlishout;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Veerle;Beyaert;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Liesbeth;Van der Haegen;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
@@ -14,14 +14,14 @@ Jan;De Wilde ;Fairville;;https://www.fairville.be/;C
 Tom;Van Hecke;Fairville;;https://www.fairville.be/;C
 Sofie;Ravyts;Fairville;;https://www.fairville.be/;C
 Ruben;Mattan ;Fairville;;https://www.fairville.be/;C
-Stijn;Claes ;IOK;;https://www.iok.be/;C
-Koen ;Van den Eynde;IOK;;https://www.iok.be/;C
+Stijn;Claes ;IOK;;https://www.iok.be/;A
+Koen ;Van den Eynde;IOK;;https://www.iok.be/;A
 Wesley ;Dooms ;LETS Vlaanderen ;;https://www.letsvlaanderen.be/;C
 Bart;Wolput ;Give a Day;;https://www.giveaday.be/nl-be;C
 Bram;Coppens ;Koalect;;https://koalect.com/nl/;C
 Geert;Peters ;CCV Lab;;https://www.ccv.eu/lab/;C
-Lien;Schoofs ;Stad Geel;;https://www.geel.be/;C
-Annelies;Van Ostaeyen;Stad Geel;;https://www.geel.be/;C
+Lien;Schoofs ;Stad Geel;;https://www.geel.be/;A
+Annelies;Van Ostaeyen;Stad Geel;;https://www.geel.be/;A
 Stef;Kuypers ;Happonomy;;https://www.happonomy.org/nl/;C
 Maarten;Decramer ;Beaver & Eagle;;https://beaverandeagle.com/;C
 Sander;Van Parijs;Muntuit;;https://muntuit.be/;C
