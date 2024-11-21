@@ -14,7 +14,7 @@
   "specificationDocuments": [
     {
       "name": "Incentiveringsplatform Vocabularium",
-      "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/incentiveringsplatform/"
+      "resourceReference": "https://data.vlaanderen.be/ns/incentiveringsplatform"
     }
   ],
   "documentation": [
